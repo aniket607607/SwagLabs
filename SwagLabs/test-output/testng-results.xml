@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T17:17:27Z" name="Default suite" finished-at="2022-01-23T17:17:44Z" duration-ms="17070">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T17:17:27Z" name="Default test" finished-at="2022-01-23T17:17:44Z" duration-ms="17070">
+      <class name="testCases.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:27Z" name="setup" finished-at="2022-01-23T22:47:30Z" duration-ms="2653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="startmessage()[pri:1, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:30Z" name="startmessage" finished-at="2022-01-23T22:47:30Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startmessage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:30Z" name="teardown" finished-at="2022-01-23T22:47:30Z" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:31Z" name="setup" finished-at="2022-01-23T22:47:33Z" duration-ms="2225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkout_items(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:33Z" name="checkout_items" data-provider="checkoutTestData" finished-at="2022-01-23T22:47:33Z" duration-ms="357" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7698t7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_items -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:33Z" name="teardown" finished-at="2022-01-23T22:47:34Z" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:34Z" name="setup" finished-at="2022-01-23T22:47:36Z" duration-ms="2393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkout_items(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:36Z" name="checkout_items" data-provider="checkoutTestData" finished-at="2022-01-23T22:47:37Z" duration-ms="351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shanu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhaiyya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[87569.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_items -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:37Z" name="teardown" finished-at="2022-01-23T22:47:37Z" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:37Z" name="setup" finished-at="2022-01-23T22:47:40Z" duration-ms="2941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkout_items(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:40Z" name="checkout_items" data-provider="checkoutTestData" finished-at="2022-01-23T22:47:41Z" duration-ms="366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vicky ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kasuahl]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[786879.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_items -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:41Z" name="teardown" finished-at="2022-01-23T22:47:41Z" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:41Z" name="setup" finished-at="2022-01-23T22:47:44Z" duration-ms="2318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Endmessage()[pri:3, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:44Z" name="Endmessage" finished-at="2022-01-23T22:47:44Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Endmessage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.CheckoutTest@31f9b85e]" started-at="2022-01-23T22:47:44Z" name="teardown" finished-at="2022-01-23T22:47:44Z" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.CheckoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

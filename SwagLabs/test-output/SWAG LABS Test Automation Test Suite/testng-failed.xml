@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SWAG LABS Test Automation Test Suite]" guice-stage="DEVELOPMENT">
+  <test name="Free CRM AppSwag Labs Test Cases(failed)">
+    <classes>
+      <class name="testCases.CheckoutTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="checkout_items"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.CheckoutTest -->
+    </classes>
+  </test> <!-- Free CRM AppSwag Labs Test Cases(failed) -->
+</suite> <!-- Failed suite [SWAG LABS Test Automation Test Suite] -->
